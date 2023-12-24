@@ -41,9 +41,9 @@ Please install **all** MustangPeakNG libraries in **this order:**
 
 3.	[EasyListView](https://github.com/MustangPeakNG/EasyListView)
 
-4.	[VirtualShellTools] (https://github.com/MustangpeakNG/VirtualShellTools)
+4.	[VirtualShellTools](https://github.com/MustangpeakNG/VirtualShellTools)
 
-5.	[EasyNSE] (https://github.com/MustangpeakNG/EasyNSE)
+5.	[EasyNSE](https://github.com/MustangpeakNG/EasyNSE)
 
 And the following 3rd party components
 
